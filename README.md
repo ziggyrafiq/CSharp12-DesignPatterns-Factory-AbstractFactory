@@ -3,7 +3,7 @@
 ## Overview
 In this repository, you will find examples of Factory and Abstract Factory design patterns in C# 12. These patterns simplify creating complex objects and enhance code maintainability, scalability, and overall navigation.  
 
- **[Article published on C# Corner click here to read this article](https://www.c-sharpcorner.com/article/abstract-factory-design-pattern-in-net-core-c-sharp-12/)**
+ **[Article published on C# Corner click here to read this article](https://www.c-sharpcorner.com/article/c-sharp-12-design-patterns-factory-and-abstract-factory/)**
 
 ## Key Concepts
 
