@@ -1,0 +1,14 @@
+I:\GitHub\CSharp12-DesignPatterns-Factory-AbstractFactory\DesignPatterns\FactoryAndAbstractFactoryDemo\bin\Debug\net8.0\FactoryAndAbstractFactoryDemo.exe
+I:\GitHub\CSharp12-DesignPatterns-Factory-AbstractFactory\DesignPatterns\FactoryAndAbstractFactoryDemo\bin\Debug\net8.0\FactoryAndAbstractFactoryDemo.deps.json
+I:\GitHub\CSharp12-DesignPatterns-Factory-AbstractFactory\DesignPatterns\FactoryAndAbstractFactoryDemo\bin\Debug\net8.0\FactoryAndAbstractFactoryDemo.runtimeconfig.json
+I:\GitHub\CSharp12-DesignPatterns-Factory-AbstractFactory\DesignPatterns\FactoryAndAbstractFactoryDemo\bin\Debug\net8.0\FactoryAndAbstractFactoryDemo.dll
+I:\GitHub\CSharp12-DesignPatterns-Factory-AbstractFactory\DesignPatterns\FactoryAndAbstractFactoryDemo\bin\Debug\net8.0\FactoryAndAbstractFactoryDemo.pdb
+I:\GitHub\CSharp12-DesignPatterns-Factory-AbstractFactory\DesignPatterns\FactoryAndAbstractFactoryDemo\obj\Debug\net8.0\FactoryAndAbstractFactoryDemo.GeneratedMSBuildEditorConfig.editorconfig
+I:\GitHub\CSharp12-DesignPatterns-Factory-AbstractFactory\DesignPatterns\FactoryAndAbstractFactoryDemo\obj\Debug\net8.0\FactoryAndAbstractFactoryDemo.AssemblyInfoInputs.cache
+I:\GitHub\CSharp12-DesignPatterns-Factory-AbstractFactory\DesignPatterns\FactoryAndAbstractFactoryDemo\obj\Debug\net8.0\FactoryAndAbstractFactoryDemo.AssemblyInfo.cs
+I:\GitHub\CSharp12-DesignPatterns-Factory-AbstractFactory\DesignPatterns\FactoryAndAbstractFactoryDemo\obj\Debug\net8.0\FactoryAndAbstractFactoryDemo.csproj.CoreCompileInputs.cache
+I:\GitHub\CSharp12-DesignPatterns-Factory-AbstractFactory\DesignPatterns\FactoryAndAbstractFactoryDemo\obj\Debug\net8.0\FactoryAndAbstractFactoryDemo.dll
+I:\GitHub\CSharp12-DesignPatterns-Factory-AbstractFactory\DesignPatterns\FactoryAndAbstractFactoryDemo\obj\Debug\net8.0\refint\FactoryAndAbstractFactoryDemo.dll
+I:\GitHub\CSharp12-DesignPatterns-Factory-AbstractFactory\DesignPatterns\FactoryAndAbstractFactoryDemo\obj\Debug\net8.0\FactoryAndAbstractFactoryDemo.pdb
+I:\GitHub\CSharp12-DesignPatterns-Factory-AbstractFactory\DesignPatterns\FactoryAndAbstractFactoryDemo\obj\Debug\net8.0\FactoryAndAbstractFactoryDemo.genruntimeconfig.cache
+I:\GitHub\CSharp12-DesignPatterns-Factory-AbstractFactory\DesignPatterns\FactoryAndAbstractFactoryDemo\obj\Debug\net8.0\ref\FactoryAndAbstractFactoryDemo.dll
